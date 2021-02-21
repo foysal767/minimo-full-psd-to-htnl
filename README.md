@@ -1,1 +1,1 @@
-# minimo-full-psd-to-htnl
+# minimo-full-psd-to-html
